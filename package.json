@@ -1,0 +1,16 @@
+{
+  "name": "nodebeginner",
+  "version": "1.0.0",
+  "description": "Node Beginner book assignment",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^2.10.2",
+    "mocha": "^2.4.5"
+  }
+}
